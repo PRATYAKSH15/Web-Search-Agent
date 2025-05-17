@@ -1,4 +1,5 @@
 # 🔎 LangChain + Streamlit Chatbot with Web Search
+Check out this [streamlit deployed](https://web-search-agent-genai-app.streamlit.app/)
 
 An interactive AI chatbot powered by LangChain, Groq's LLaMA3-8b model, and Streamlit. The chatbot can perform web searches using DuckDuckGo, Wikipedia, and arXiv, with real-time reasoning display.
 
