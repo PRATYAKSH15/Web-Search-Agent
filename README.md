@@ -3,6 +3,9 @@ Check out this [streamlit deployed](https://web-search-agent-genai-app.streamlit
 
 An interactive AI chatbot powered by LangChain, Groq's LLaMA3-8b model, and Streamlit. The chatbot can perform web searches using DuckDuckGo, Wikipedia, and arXiv, with real-time reasoning display.
 
+## Screenshot
+![NutriTrack Screenshot 1](Overview.png)
+
 ## 🌐 Live Demo
 
 Try asking questions like:
